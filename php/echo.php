@@ -1,3 +1,5 @@
+// By Garrett Glenn
+
 <?php
 function echo1()
 {
@@ -11,4 +13,3 @@ function echo1()
 echo1();
 echo1('bla');
 echo1('foo', 'bar', 'baz');
-?>
